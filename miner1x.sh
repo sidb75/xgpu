@@ -26,6 +26,7 @@ echo "STEP 6 of 10: Cloned git clone https://github.com/sidb75/XENGPUMiner75.git
 cd XENGPUMiner75
 chmod +x build.sh > /dev/null 2>&1
 ./build.sh > /dev/null 2>&1
+chmod +x miner.sh > /dev/null 2>&1
 echo "STEP 7 of 10: Permissions set!"
 
 apt install screen > /dev/null 2>&1
