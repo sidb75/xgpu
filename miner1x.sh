@@ -20,7 +20,7 @@ echo "STEP 4 of 10: Installed cMake"
 sudo apt -y install python3-pip > /dev/null 2>&1
 echo "STEP 5 of 10: Installed Python"
 
-git clone git clone https://github.com/sidb75/XENGPUMiner75.git > /dev/null 2>&1
+git clone https://github.com/sidb75/XENGPUMiner75.git > /dev/null 2>&1
 echo "STEP 6 of 10: Cloned git clone https://github.com/sidb75/XENGPUMiner75.git"
 
 cd XENGPUMiner75
