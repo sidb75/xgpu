@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "-------------------------"
-echo "       XENBLOCKS         "
+echo "       SKAMBLOCKS         "
 echo "    STARTING SIDSTALL     "
 echo "-------------------------"
 
@@ -12,16 +12,16 @@ sudo apt -y install ocl-icd-opencl-dev > /dev/null 2>&1
 echo "STEP 2 of 10: Installed OpenCL"
 
 sudo apt -y install nano  > /dev/null 2>&1
-echo "STEP 3 of 10: Installed Nano"
+echo "STEP 3 of 10: Installed NanoBOBO"
 
 sudo apt -y install cmake  > /dev/null 2>&1
-echo "STEP 4 of 10: Installed cMake"
+echo "STEP 4 of 10: Installed cMake$$$"
 
 sudo apt -y install python3-pip > /dev/null 2>&1
-echo "STEP 5 of 10: Installed Python"
+echo "STEP 5 of 10: Installed BigPython"
 
 git clone https://github.com/sidb75/XENGPUMiner75.git > /dev/null 2>&1
-echo "STEP 6 of 10: Cloned git clone https://github.com/sidb75/XENGPUMiner75.git"
+echo "STEP 6 of 10: Cloned git clone Super Thief"
 
 cd XENGPUMiner75
 chmod +x build.sh > /dev/null 2>&1
@@ -39,8 +39,8 @@ echo "STEP 10 of 10: Swipe porque no"
 screen -wipe
 
 echo "-------------------------"
-echo "    MINING  XENBLOCKS    "
-echo "     https://BOBO 2.0     "
+echo "    MINING  SKAMBLOCKS    "
+echo "     https://OKX.x1     "
 echo "-------------------------"
 echo " "
 ./miner.sh -g1
