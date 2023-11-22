@@ -43,4 +43,4 @@ echo "    MINING  SKAMBLOCKS    "
 echo "     https://OKX.x1     "
 echo "-------------------------"
 echo " "
-XENGPUMiner75
+cd /mnt/XENGPUMiner75
